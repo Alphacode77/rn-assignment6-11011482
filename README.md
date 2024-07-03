@@ -1,4 +1,4 @@
-# Overview
+# OVERVIEW
 
 This project is a React Native shopping application. The application features a home screen and a cart screen, and it uses React Navigation to handle navigation between these screens. The app also includes various assets such as images and icons.
 
@@ -6,38 +6,46 @@ This project is a React Native shopping application. The application features a 
 
 The App.js file serves as the entry point of the application. It sets up the navigation container and the stack navigator to manage the screens.
 
-# Components
+# COMPONENTS
 
-## NavigationContainer
+## NAVIGATIONCONTAINER
 
  Manages the navigation tree and the navigation state.
 
-## createStackNavigator
+## CREATESTACKNAVIGATOR
 
 Creates a stack navigator to handle screen transitions.
 
-## HomeScreen
+## HOMESCREEN
 
 Component for the Home screen, located in ./Screens/HomeScreen.js.
 
-## CartScreen
+## CARTSCREEN
 
 Component for the Cart screen, located in ./Screens/CartScreen.js.
 
-## Initial Route
+## INITIAL ROUTE
 
 The initial route of the stack navigator is set to "Home".
 
-# Screens
+# SCREENS
 
-## HomeScreen
+## HOMESCREEN
 
 The HomeScreen component is located in ./Screens/HomeScreen.js. It serves as the main landing page of the application.
 
-## CartScreen
+## CARTSCREEN
 
 The CartScreen component is located in ./Screens/CartScreen.js. It displays the items in the user's cart.
 
-# Assets
+# ASSETS
 
 The assets directory contains various image files used in the application, such as icons and splash screens.
+
+# SCREENSHOTS
+
+![home screen](./ShoppingApp/images/homescreen.jpg)
+
+![checkout screen](./ShoppingApp/images/checkooutscreen.jpg)
+
+![checkout menu](./ShoppingApp/images/checkoutmenu.jpg)
