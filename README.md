@@ -44,8 +44,14 @@ The assets directory contains various image files used in the application, such 
 
 # SCREENSHOTS
 
+## HOME SCREEN
+
 ![home screen](./ShoppingApp/images/homescreen.jpg)
 
+## CHECKOUT SCREEN
+
 ![checkout screen](./ShoppingApp/images/checkooutscreen.jpg)
+
+## CHECKOUT MENU
 
 ![checkout menu](./ShoppingApp/images/checkoutmenu.jpg)
